@@ -1,0 +1,11 @@
+All experiments were performed using three patch-data-based CNN methods in HSI classification, 
+which are DPRN, SSTFF and MRViT.
+The paper name of the method DPRN:
+Deep Pyramidal Residual Networks for Spectral-Spatial Hyperspectral Image Classification.
+(Project Repository address: https://github.com/mhaut/pResNet-HSI)
+The paper name of the method SSTFF:
+Spectral-Spatial Feature Tokenization Transformer for Hyperspectral Image Classification.
+(Project Repository address: https://github.com/zgr6010/HSI_SSFTT)
+The paper name of the method MRViT:
+Mixed Residual Convolutions with Vision Transformer in Hyperspectral Image Classification.
+(Project Repository address: https://github.com/Candy-CY/Hyperspectral-Image-Classification-Models/tree/main/MRViT)
